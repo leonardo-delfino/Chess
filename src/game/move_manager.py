@@ -1,5 +1,5 @@
 from hashids import Hashids
-from utils import constants as const
+from src.utils import constants as const
 
 
 class MoveManager(object):

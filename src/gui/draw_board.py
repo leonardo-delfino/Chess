@@ -1,5 +1,5 @@
 import pygame
-from utils import constants as const
+from src.utils import constants as const
 
 
 class DrawBoard(object):

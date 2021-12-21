@@ -1,6 +1,6 @@
 import numpy as np
-from utils import constants as const
-from game.move_manager import MoveManager
+from src.utils import constants as const
+from src.game.move_manager import MoveManager
 
 
 class Chess(object):
