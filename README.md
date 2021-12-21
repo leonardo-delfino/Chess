@@ -1,5 +1,5 @@
 # Chess
-A didactic GUI chess game made in Python3 using Pygame.  
+A didactic GUI chess game made in Python3 using pygame.  
 At the moment, there is no AI. The only way you can test the game is by playing against another human.
 
 ## No commits?
