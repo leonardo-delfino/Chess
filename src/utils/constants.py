@@ -1,0 +1,36 @@
+# WIDTH = int(512 * 1.5)
+# HEIGHT = int(512 * 1.5)
+DIM = 8
+
+WIDTH = int(768)
+HEIGHT = int(768)
+# SQ_SIZE = HEIGHT // BOARD_DIMENSION
+SQ_SIZE = 96
+HALF_SQUARE = 48
+WIDTH += SQ_SIZE
+HEIGHT += SQ_SIZE
+
+MAX_FPS = 15
+IMAGES = {}
+NUMBERS = {}
+LETTERS = {}
+
+# COLORS = [("#d0dff4", "#4b648a"), ("#f0d9b5", "#b58863")]
+COLORS = [((240, 217, 181), (181, 136, 99)), ((208, 223, 244), (75, 100, 138))]
+EDGES_RGB = (49, 46, 43)
+
+WHITE_ROOK   = "wR"
+WHITE_BISHOP = "wB"
+WHITE_KNIGHT = "wN"
+WHITE_QUEEN  = "wQ"
+WHITE_KING   = "wK"
+WHITE_PAWN   = "wP"
+
+BLACK_ROOK   = "bR"
+BLACK_BISHOP = "bB"
+BLACK_KNIGHT = "bN"
+BLACK_QUEEN  = "bQ"
+BLACK_KING   = "bK"
+BLACK_PAWN   = "bP"
+
+EMPTY_CELL   = "--"
