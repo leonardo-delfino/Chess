@@ -12,8 +12,8 @@ So, I just uploaded the folder I have on my PC.
 <img src="images/checkmate.png" width="50%" height="50%">
 
 ## TODO list:
-- Implement the [FEN](https://www.wikiwand.com/en/Forsyth%E2%80%93Edwards_Notation);
-- Change the colors;
-- provide a setup.py script;
-- I didn't test it on Linux / MacOS;
-- Maybe add a neural network?
+- [ ] Implement the [FEN](https://www.wikiwand.com/en/Forsyth%E2%80%93Edwards_Notation);
+- [ ] Add custom color schemes;
+- [ ] Provide a setup.py script;
+- [ ] Test it on Linux / MacOS;
+- [ ] Implement a Neural Network.
