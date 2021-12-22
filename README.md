@@ -7,9 +7,9 @@ When I started coding this project in January I didn't set a repository up (I do
 So, I just uploaded the folder I have on my PC.
 
 ## Screenshots
-<img src="images/chessboard.png" width="500" height="500">
-<img src="images/move.png" width="500" height="500">
-<img src="images/checkmate.png" width="500" height="500">
+<img src="images/chessboard.png" width="50%" height="50%">
+<img src="images/move.png" width="50%" height="50%">
+<img src="images/checkmate.png" width="50%" height="50%">
 
 ## TODO list:
 - Implement the [FEN](https://www.wikiwand.com/en/Forsyth%E2%80%93Edwards_Notation);
