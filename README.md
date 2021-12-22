@@ -14,5 +14,6 @@ So, I just uploaded the folder I have on my PC.
 ## TODO list:
 - Implement the [FEN](https://www.wikiwand.com/en/Forsyth%E2%80%93Edwards_Notation);
 - Change the colors;
+- provide a setup.py script;
 - I didn't test it on Linux / MacOS;
 - Maybe add a neural network?
