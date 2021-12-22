@@ -3,7 +3,7 @@ A didactic GUI chess game made in Python3 using pygame.
 At the moment, there is no AI. The only way you can test the game is by playing against another human.
 
 ## No commits?
-When I started coding this project in January I didn't set up a repository (I don't know why).  
+When I started coding this project in January I didn't set a repository up (I don't know why).  
 So, I just uploaded the folder I have on my PC.
 
 ## Screenshots
